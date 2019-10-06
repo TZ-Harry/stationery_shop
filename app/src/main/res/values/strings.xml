@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stationery Shop</string>
+    <string name="title_home">Home</string>
+    <string name="title_buyer">Buyer</string>
+    <string name="title_history">History</string>
+</resources>
